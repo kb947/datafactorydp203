@@ -1,0 +1,12 @@
+{
+	"name": "dataworkflow_datapool_poolactivitylog",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "dataworkspace4000",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": []
+	}
+}
